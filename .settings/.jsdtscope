@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="frameworks/runtime-src/proj.android/assets/script/ccui/|linux-build/bin/Resources/script/physics3d/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/ccui/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/studio/parsers/|res/|frameworks/cocos2d-html5/extensions/cocostudio/|linux-build/bin/Resources/script/debugger/actors/utils/|linux-build/bin/Resources/script/chipmunk/|frameworks/cocos2d-html5/cocos2d/core/renderer/|frameworks/runtime-src/proj.android/assets/script/debugger/core/|frameworks/cocos2d-html5/external/gaf/|linux-build/bin/Resources/script/ccui/|frameworks/runtime-src/proj.android/assets/script/physicsSprite/|frameworks/cocos2d-html5/extensions/ccb-reader/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/physicsSprite/|frameworks/cocos2d-html5/cocos2d/physics/|simulator/linux/Resources/script/studio/|frameworks/cocos2d-x/plugin/jsbindings/script/|frameworks/runtime-src/proj.android/assets/script/extension/|frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/|frameworks/cocos2d-html5/cocos2d/actions/|frameworks/cocos2d-html5/extensions/cocostudio/armature/|frameworks/cocos2d-html5/cocos2d/core/textures/|linux-build/bin/Resources/script/physicsSprite/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/debugger/webconsole/|frameworks/cocos2d-html5/cocos2d/actions3d/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/navmesh/|frameworks/cocos2d-html5/extensions/ccui/layouts/|frameworks/cocos2d-html5/cocos2d/node-grid/|frameworks/runtime-src/proj.android/assets/script/navmesh/|frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api/|src/|frameworks/cocos2d-x/plugin/jsbindings/auto/api/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/physics3d/|frameworks/runtime-src/proj.android/assets/script/physics3d/|frameworks/cocos2d-html5/cocos2d/core/event-manager/|frameworks/cocos2d-html5/cocos2d/core/base-nodes/|frameworks/runtime-src/proj.android/assets/script/|frameworks/runtime-src/proj.android/assets/script/chipmunk/|linux-build/bin/Resources/script/navmesh/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/chipmunk/|frameworks/cocos2d-html5/extensions/cocostudio/armature/physics/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/|frameworks/cocos2d-html5/cocos2d/core/scenes/|frameworks/cocos2d-html5/|frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/|frameworks/cocos2d-html5/cocos2d/core/layers/|frameworks/runtime-src/proj.android/assets/script/studio/parsers/|frameworks/cocos2d-html5/extensions/ccpool/|frameworks/cocos2d-html5/cocos2d/shape-nodes/|simulator/linux/Resources/script/studio/parsers/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/debugger/core/|frameworks/cocos2d-html5/external/pluginx/|linux-build/bin/Resources/script/debugger/core/|frameworks/cocos2d-html5/external/gaf/Library/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/studio/|frameworks/cocos2d-html5/cocos2d/render-texture/|simulator/linux/Resources/script/extension/|frameworks/cocos2d-html5/extensions/cocostudio/armature/animation/|simulator/linux/Resources/script/physicsSprite/|frameworks/cocos2d-html5/extensions/ccui/system/|linux-build/bin/Resources/script/debugger/actors/|frameworks/cocos2d-html5/cocos2d/kazmath/gl/|simulator/linux/Resources/res/|frameworks/cocos2d-html5/cocos2d/menus/|frameworks/cocos2d-html5/extensions/editbox/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/3d/|frameworks/cocos2d-html5/external/pluginx/platform/|frameworks/cocos2d-html5/cocos2d/core/support/|frameworks/runtime-src/proj.android/assets/|linux-build/bin/Resources/script/extension/|frameworks/cocos2d-html5/extensions/ccui/base-classes/|simulator/linux/Resources/script/chipmunk/|linux-build/bin/Resources/script/|frameworks/cocos2d-html5/tools/|simulator/linux/Resources/src/|frameworks/cocos2d-html5/cocos2d/audio/|frameworks/cocos2d-html5/extensions/cocostudio/action/|frameworks/cocos2d-html5/cocos2d/particle/|frameworks/cocos2d-html5/extensions/cocostudio/timeline/|linux-build/bin/Resources/src/|frameworks/runtime-src/proj.android/assets/script/debugger/actors/utils/|simulator/linux/Resources/script/navmesh/|linux-build/bin/Resources/script/debugger/|frameworks/cocos2d-html5/template/|simulator/linux/Resources/script/debugger/core/|linux-build/bin/Resources/script/studio/parsers/|frameworks/cocos2d-html5/extensions/cocostudio/armature/display/|frameworks/cocos2d-html5/cocos2d/transitions/|frameworks/cocos2d-html5/extensions/gui/control-extension/|frameworks/cocos2d-html5/cocos2d/compression/|frameworks/cocos2d-html5/template/src/|frameworks/cocos2d-html5/cocos2d/motion-streak/|frameworks/cocos2d-html5/extensions/cocostudio/armature/datas/|frameworks/cocos2d-html5/cocos2d/tilemap/|frameworks/cocos2d-html5/cocos2d/parallax/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/debugger/actors/|frameworks/runtime-src/proj.android/assets/res/|linux-build/bin/Resources/script/debugger/webconsole/|frameworks/cocos2d-html5/extensions/ccui/uiwidgets/|frameworks/cocos2d-html5/cocos2d/clipping-nodes/|frameworks/cocos2d-html5/extensions/cocostudio/components/|simulator/linux/Resources/|frameworks/cocos2d-html5/extensions/cocostudio/trigger/|frameworks/runtime-src/proj.android/assets/script/debugger/|frameworks/cocos2d-html5/template/res/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/debugger/|simulator/linux/Resources/script/3d/|frameworks/cocos2d-html5/cocos2d/core/utils/|frameworks/cocos2d-html5/cocos2d/kazmath/|frameworks/runtime-src/proj.android/assets/src/|frameworks/cocos2d-html5/cocos2d/core/|linux-build/bin/Resources/script/studio/|simulator/linux/Resources/script/ccui/|frameworks/cocos2d-html5/cocos2d/effects/|simulator/linux/Resources/script/debugger/actors/utils/|frameworks/cocos2d-html5/cocos2d/core/labelttf/|frameworks/runtime-src/proj.android/assets/script/studio/|frameworks/cocos2d-html5/cocos2d/labels/|frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/|linux-build/bin/Resources/script/3d/|linux-build/bin/Resources/|frameworks/cocos2d-html5/cocos2d/shaders/|frameworks/cocos2d-html5/extensions/cocostudio/loader/|frameworks/runtime-src/proj.android/assets/script/debugger/actors/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/extension/|frameworks/cocos2d-html5/external/box2d/|simulator/linux/Resources/script/debugger/actors/|frameworks/runtime-src/proj.android/assets/script/3d/|frameworks/cocos2d-html5/cocos2d/core/sprites/|frameworks/cocos2d-html5/cocos2d/text-input/|frameworks/cocos2d-html5/cocos2d/progress-timer/|frameworks/cocos2d-html5/extensions/spine/|linux-build/bin/Resources/res/|frameworks/cocos2d-html5/external/socketio/|frameworks/cocos2d-html5/cocos2d/core/platform/|frameworks/cocos2d-x/cocos/scripting/js-bindings/script/debugger/actors/utils/|simulator/linux/Resources/script/debugger/|frameworks/cocos2d-html5/external/chipmunk/|frameworks/cocos2d-html5/extensions/gui/scrollview/|simulator/linux/Resources/script/physics3d/|frameworks/runtime-src/proj.android/assets/script/debugger/webconsole/|frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/|simulator/linux/Resources/script/|simulator/linux/Resources/script/debugger/webconsole/|frameworks/cocos2d-html5/extensions/runtime/|frameworks/cocos2d-html5/cocos2d/core/cocoa/" kind="src" path=""/>
+	<classpathentry excluding="extensions/cocostudio/|cocos2d/core/renderer/|external/gaf/|extensions/ccb-reader/|cocos2d/physics/|extensions/cocostudio/armature/utils/|cocos2d/actions/|extensions/cocostudio/armature/|cocos2d/core/textures/|cocos2d/actions3d/|extensions/ccui/layouts/|cocos2d/node-grid/|cocos2d/core/event-manager/|cocos2d/core/base-nodes/|extensions/cocostudio/armature/physics/|cocos2d/core/scenes/|extensions/ccui/uiwidgets/scroll-widget/|cocos2d/core/layers/|extensions/ccpool/|cocos2d/shape-nodes/|external/pluginx/|external/gaf/Library/|cocos2d/render-texture/|extensions/cocostudio/armature/animation/|extensions/ccui/system/|cocos2d/kazmath/gl/|cocos2d/menus/|extensions/editbox/|external/pluginx/platform/|cocos2d/core/support/|extensions/ccui/base-classes/|tools/|cocos2d/audio/|extensions/cocostudio/action/|cocos2d/particle/|extensions/cocostudio/timeline/|template/|extensions/cocostudio/armature/display/|cocos2d/transitions/|extensions/gui/control-extension/|cocos2d/compression/|template/src/|cocos2d/motion-streak/|extensions/cocostudio/armature/datas/|cocos2d/tilemap/|cocos2d/parallax/|extensions/ccui/uiwidgets/|cocos2d/clipping-nodes/|extensions/cocostudio/components/|extensions/cocostudio/trigger/|template/res/|cocos2d/core/utils/|cocos2d/kazmath/|cocos2d/core/|cocos2d/effects/|cocos2d/core/labelttf/|cocos2d/labels/|cocos2d/kazmath/simd_benchmark/|cocos2d/shaders/|extensions/cocostudio/loader/|external/box2d/|cocos2d/core/sprites/|cocos2d/text-input/|cocos2d/progress-timer/|extensions/spine/|external/socketio/|cocos2d/core/platform/|external/chipmunk/|extensions/gui/scrollview/|extensions/cocostudio/loader/parsers/|extensions/runtime/|cocos2d/core/cocoa/" kind="src" path="frameworks/cocos2d-html5"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/actions"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/actions3d"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/audio"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/clipping-nodes"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/compression"/>
+	<classpathentry excluding="renderer/|textures/|event-manager/|base-nodes/|scenes/|layers/|support/|utils/|labelttf/|sprites/|platform/|cocoa/" kind="src" path="frameworks/cocos2d-html5/cocos2d/core"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/base-nodes"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/cocoa"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/event-manager"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/labelttf"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/layers"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/platform"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/renderer"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/scenes"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/sprites"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/support"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/textures"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/core/utils"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/effects"/>
+	<classpathentry excluding="gl/|simd_benchmark/" kind="src" path="frameworks/cocos2d-html5/cocos2d/kazmath"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/kazmath/gl"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/labels"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/menus"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/motion-streak"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/node-grid"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/parallax"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/particle"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/physics"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/progress-timer"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/render-texture"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/shaders"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/shape-nodes"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/text-input"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/tilemap"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/cocos2d/transitions"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/ccb-reader"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/ccpool"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/ccui/base-classes"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/ccui/layouts"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/ccui/system"/>
+	<classpathentry excluding="scroll-widget/" kind="src" path="frameworks/cocos2d-html5/extensions/ccui/uiwidgets"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget"/>
+	<classpathentry excluding="armature/utils/|armature/|armature/physics/|armature/animation/|action/|timeline/|armature/display/|armature/datas/|components/|trigger/|loader/|loader/parsers/" kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/action"/>
+	<classpathentry excluding="utils/|physics/|animation/|display/|datas/" kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/armature"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/armature/animation"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/armature/datas"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/armature/display"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/armature/physics"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/armature/utils"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/components"/>
+	<classpathentry excluding="parsers/" kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/loader"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/timeline"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/cocostudio/trigger"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/editbox"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/gui/control-extension"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/gui/scrollview"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/runtime"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/extensions/spine"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/external/box2d"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/external/chipmunk"/>
+	<classpathentry excluding="Library/" kind="src" path="frameworks/cocos2d-html5/external/gaf"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/external/gaf/Library"/>
+	<classpathentry excluding="platform/" kind="src" path="frameworks/cocos2d-html5/external/pluginx"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/external/pluginx/platform"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/external/socketio"/>
+	<classpathentry excluding="src/|res/" kind="src" path="frameworks/cocos2d-html5/template"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/template/res"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/template/src"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-html5/tools"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/auto/api"/>
+	<classpathentry excluding="ccui/|studio/parsers/|physicsSprite/|debugger/webconsole/|navmesh/|physics3d/|chipmunk/|debugger/core/|studio/|3d/|debugger/actors/|debugger/|extension/|debugger/actors/utils/" kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/3d"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/ccui"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/chipmunk"/>
+	<classpathentry excluding="webconsole/|core/|actors/|actors/utils/" kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/debugger"/>
+	<classpathentry excluding="utils/" kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/debugger/actors"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/debugger/actors/utils"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/debugger/core"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/debugger/webconsole"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/extension"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/navmesh"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/physics3d"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/physicsSprite"/>
+	<classpathentry excluding="parsers/" kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/studio"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/cocos/scripting/js-bindings/script/studio/parsers"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/plugin/jsbindings/auto/api"/>
+	<classpathentry kind="src" path="frameworks/cocos2d-x/plugin/jsbindings/script"/>
+	<classpathentry excluding="script/ccui/|script/debugger/core/|script/physicsSprite/|script/extension/|script/navmesh/|script/physics3d/|script/|script/chipmunk/|script/studio/parsers/|script/debugger/actors/utils/|res/|script/debugger/|src/|script/studio/|script/debugger/actors/|script/3d/|script/debugger/webconsole/" kind="src" path="frameworks/runtime-src/proj.android/assets"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/res"/>
+	<classpathentry excluding="ccui/|debugger/core/|physicsSprite/|extension/|navmesh/|physics3d/|chipmunk/|studio/parsers/|debugger/actors/utils/|debugger/|studio/|debugger/actors/|3d/|debugger/webconsole/" kind="src" path="frameworks/runtime-src/proj.android/assets/script"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/3d"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/ccui"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/chipmunk"/>
+	<classpathentry excluding="core/|actors/utils/|actors/|webconsole/" kind="src" path="frameworks/runtime-src/proj.android/assets/script/debugger"/>
+	<classpathentry excluding="utils/" kind="src" path="frameworks/runtime-src/proj.android/assets/script/debugger/actors"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/debugger/actors/utils"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/debugger/core"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/debugger/webconsole"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/extension"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/navmesh"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/physics3d"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/physicsSprite"/>
+	<classpathentry excluding="parsers/" kind="src" path="frameworks/runtime-src/proj.android/assets/script/studio"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/script/studio/parsers"/>
+	<classpathentry kind="src" path="frameworks/runtime-src/proj.android/assets/src"/>
+	<classpathentry excluding="script/physics3d/|script/debugger/actors/utils/|script/chipmunk/|script/ccui/|script/physicsSprite/|script/navmesh/|script/debugger/core/|script/debugger/actors/|script/extension/|script/|src/|script/debugger/|script/studio/parsers/|script/debugger/webconsole/|script/studio/|script/3d/|res/" kind="src" path="linux-build/bin/Resources"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/res"/>
+	<classpathentry excluding="physics3d/|debugger/actors/utils/|chipmunk/|ccui/|physicsSprite/|navmesh/|debugger/core/|debugger/actors/|extension/|debugger/|studio/parsers/|debugger/webconsole/|studio/|3d/" kind="src" path="linux-build/bin/Resources/script"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/3d"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/ccui"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/chipmunk"/>
+	<classpathentry excluding="actors/utils/|core/|actors/|webconsole/" kind="src" path="linux-build/bin/Resources/script/debugger"/>
+	<classpathentry excluding="utils/" kind="src" path="linux-build/bin/Resources/script/debugger/actors"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/debugger/actors/utils"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/debugger/core"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/debugger/webconsole"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/extension"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/navmesh"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/physics3d"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/physicsSprite"/>
+	<classpathentry excluding="parsers/" kind="src" path="linux-build/bin/Resources/script/studio"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/script/studio/parsers"/>
+	<classpathentry kind="src" path="linux-build/bin/Resources/src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry excluding="script/studio/|script/studio/parsers/|script/extension/|script/physicsSprite/|res/|script/chipmunk/|src/|script/navmesh/|script/debugger/core/|script/3d/|script/ccui/|script/debugger/actors/utils/|script/debugger/actors/|script/debugger/|script/physics3d/|script/|script/debugger/webconsole/" kind="src" path="simulator/linux/Resources"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/res"/>
+	<classpathentry excluding="studio/|studio/parsers/|extension/|physicsSprite/|chipmunk/|navmesh/|debugger/core/|3d/|ccui/|debugger/actors/utils/|debugger/actors/|debugger/|physics3d/|debugger/webconsole/" kind="src" path="simulator/linux/Resources/script"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/3d"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/ccui"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/chipmunk"/>
+	<classpathentry excluding="core/|actors/utils/|actors/|webconsole/" kind="src" path="simulator/linux/Resources/script/debugger"/>
+	<classpathentry excluding="utils/" kind="src" path="simulator/linux/Resources/script/debugger/actors"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/debugger/actors/utils"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/debugger/core"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/debugger/webconsole"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/extension"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/navmesh"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/physics3d"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/physicsSprite"/>
+	<classpathentry excluding="parsers/" kind="src" path="simulator/linux/Resources/script/studio"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/script/studio/parsers"/>
+	<classpathentry kind="src" path="simulator/linux/Resources/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
