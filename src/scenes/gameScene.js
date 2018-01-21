@@ -49,7 +49,7 @@ var GameLayer = cc.Layer.extend({
 
                 this.bala = new cc.Sprite(res.point_png);
                 this.bala.attr({
-                    x: this.player.getPosition().x-9,
+                    x: this.player.getPosition().x,
                     y: this.player.getPosition().y
                 });
 
@@ -65,10 +65,9 @@ var GameLayer = cc.Layer.extend({
                 
                 var moveAction = cc.moveTo(this.tempo, this.posicaoFinal);
                 this.bala.runAction(moveAction);
-                
-
             }
         }, this);
+        
 
         return true;
     }
@@ -102,14 +101,12 @@ function calcularPosicaoFinalDoTiro(p1, p2) {
     var length = Math.sqrt((p1.x * p2.x) + (p1.y * p2.y));
     var direction = new cc.p(offset.x / length, offset.y / length);
     var shootAmount = new cc.p(direction.x * 10000, direction.y * 10000);
-    var realdestination = new cc.p(p2.x + shootAmount.x, p2.y + shootAmount.y);
-    return realdestination;
+    return new cc.p(p2.x + shootAmount.x, p2.y + shootAmount.y);
 }
 
 function calcularDistanciaEntrePontos(p1,p2){
     var xDist = p2.x - p1.x;
     var yDist = p2.y - p1.y
-    var distance = Math.sqrt((xDist*xDist)+(yDist*yDist));
-    return distance;
+    return Math.sqrt((xDist*xDist)+(yDist*yDist));
 }
 
